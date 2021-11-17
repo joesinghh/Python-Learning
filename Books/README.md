@@ -1,1 +1,1 @@
-# Books for Leanrning Python.
+# Books for Learning Python.
