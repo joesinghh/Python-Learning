@@ -1,1 +1,0 @@
-# Communities for learning Python.
