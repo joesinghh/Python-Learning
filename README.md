@@ -37,3 +37,8 @@ Full Python Course including advance concetps and interview questions.
 Python Tutorial for Beginners - Learn Python in 1.5 Hours | Apna College
 https://youtu.be/vLqTf2b6GZw
 Language : Hindi
+
+
+Python for Beginners | Programming with Mosh
+https://youtu.be/kqtD5dpn9C8
+This Python tutorial for beginners show how to get started with Python quickly. 
