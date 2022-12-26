@@ -7,4 +7,4 @@ Hope you all enjoy learning Python 🐍.
 
 Table of conents
 |sno|title|
-|1. |Tutorials |
+|---|-----|
