@@ -1,10 +1,9 @@
 # Python Learning
 
 Resources for learning **Python**, which are divided into 3 categories (beginners, intermediate and advanced).
-I hope you all enjoy learning Python 🐍.
-
+I hope you all enjoy learning Python 🐍.<br><br>
+![](https://raw.githubusercontent.com/joesinghh/Python-Learning/main/Img/Python%20Learning.png) <br><br>
 Find free python books here: [Link](https://github.com/joesinghh/Python-Learning/tree/main/Books)
-// image banner
 
 Table of contents
 |Sno|Title|
